@@ -1,0 +1,8 @@
+<Ui>
+<Frame name="PersistentMarksFrame">
+ <Scripts>
+   <OnLoad> self:RegisterEvent("PLAYER_ENTERING_WORLD"); </OnLoad>
+   <OnEvent> print("Hello World! Hello " .. event); </OnEvent>
+  </Scripts>
+</Frame>
+</Ui>

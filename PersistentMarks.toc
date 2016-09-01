@@ -1,0 +1,6 @@
+﻿## Interface: 60000
+## Title: PersistentMarks
+## Version: 1.0
+## Notes: Load Default-Raidmarkers after every loadscreen
+## SavedVariables: PersistentMarksEnabled
+PersistentMarks.lua
