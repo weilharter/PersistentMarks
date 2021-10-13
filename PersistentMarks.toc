@@ -1,6 +1,9 @@
 ﻿## Interface: 60000
 ## Title: PersistentMarks
-## Version: 1.0
+## Version: 1.1
 ## Notes: Load Default-Raidmarkers after every loadscreen
-## SavedVariables: PersistentMarksEnabled
+## SavedVariables: PersistentMarksDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
 PersistentMarks.lua
+embeds.xml
